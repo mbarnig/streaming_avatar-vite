@@ -1,0 +1,7 @@
+{
+  "scripts": {
+      "dev": "node_modules/next/dist/bin/next dev",
+      "build": "next build",
+      "start": "next start"
+  }
+}
